@@ -1,6 +1,6 @@
 {
   "name": "nextjs-material-dashboard",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,8 +9,8 @@
     "install:clean": "rm -rf node_modules/ package-lock.json .next/ && npm install && npm run dev"
   },
   "dependencies": {
-    "@mui/material": "^5.17.5",
-    "@mui/icons-material": "^5.17.5",
+    "@mui/material": "^5.14.12",
+    "@mui/icons-material": "^5.14.12",
     "chart.js": "^4.4.1",
     "react-chartjs-2": "^5.2.1",
     "classnames": "^2.5.0",
@@ -22,7 +22,6 @@
     "perfect-scrollbar": "^1.5.6",
     "prop-types": "^15.9.2",
     "react": "^18.3.1",
-    "react-chartjs-2": "^5.2.1",
     "react-dom": "^18.3.1",
     "react-swipeable": "^7.0.0",
     "sass": "^1.70.0"
