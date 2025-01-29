@@ -22,8 +22,8 @@
     "path": "0.12.7",
     "perfect-scrollbar": "1.5.5",
     "prop-types": "15.8.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-swipeable": "^7.0.0",
     "sass": "^1.69.0"
   },
